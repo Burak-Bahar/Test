@@ -51,4 +51,4 @@ if __name__ == "__main__":
             min_number = find_smallest(name)
             row[2] = str(min_number)
 
-    merid()
+    print(merid())
